@@ -27,3 +27,8 @@
 .card {
     border: none !important;
 }
+
+.angels {
+    height: 500px;
+    width: 400px;
+}
